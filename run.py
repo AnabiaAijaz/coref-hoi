@@ -3,7 +3,7 @@ import random
 import numpy as np
 import torch
 from torch.utils.tensorboard import SummaryWriter
-from transformers import AdamW
+from torch.optim import AdamW
 from torch.optim import Adam
 from tensorize import CorefDataProcessor
 import util

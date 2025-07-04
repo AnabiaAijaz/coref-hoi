@@ -3,3 +3,4 @@
 .pyc
 tmp.py
 conll-2012
+__pycache__/
